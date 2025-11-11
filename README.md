@@ -14,7 +14,7 @@ The project demonstrates a mature, production-ready approach to mobile developme
 
 <br />
 
-## 🎯 Key Features and UX/UI
+##  Key Features and UX/UI
 
 * **Robust Game Modes:** Implemented multiple game logics including Classic, Daily Challenges, Battle, and Championship modes.
 * **Adaptive Design:** Utilizes `LayoutScale` and custom adaptive layouts to ensure a seamless experience on compact phones and large tablets.
@@ -23,7 +23,7 @@ The project demonstrates a mature, production-ready approach to mobile developme
 
 ---
 
-## 🛠️ Architecture and Engineering Solutions
+##  Architecture and Engineering Solutions
 
 ### Core Stack
 * **Framework:** Flutter, Dart
@@ -40,7 +40,7 @@ The project demonstrates a mature, production-ready approach to mobile developme
 
 ---
 
-## 🤖 Code Quality & Professional Audit
+##  Code Quality & Professional Audit
 
 The project underwent an AI-powered code quality analysis, providing an objective assessment of the development level.
 
@@ -54,7 +54,7 @@ The project underwent an AI-powered code quality analysis, providing an objectiv
 
 ---
 
-## 🔐 Source Code Access Policy
+##  Source Code Access Policy
 
 As **Sudoku Uzor** is a published, commercial product, the source code is maintained in a private repository to protect intellectual property.
 
@@ -62,10 +62,11 @@ I am prepared to **provide a live code walkthrough** during a technical intervie
 
 ---
 
-## 💼 Contact
+##  Contact
 
 **Nahreba Mykhailo**
 
-* **LinkedIn:** ---]
+* **LinkedIn:** ---
+* **Website:** https://uzorgame.github.io/
 * **Email:** NagrebaMM@gmail.com
 * **Telegram:** @uzormn
