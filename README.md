@@ -66,6 +66,6 @@ I am prepared to **provide a live code walkthrough** during a technical intervie
 
 **Nahreba Mykhailo**
 
-* **LinkedIn:** [YOUR_LINKEDIN_PROFILE_URL]
-* **Email:** [YOUR_EMAIL@example.com]
-* **Telegram:** [YOUR_TELEGRAM_HANDLE]
+* **LinkedIn:** ---]
+* **Email:** NagrebaMM@gmail.com
+* **Telegram:** @uzormn
